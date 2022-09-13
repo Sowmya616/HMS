@@ -1,0 +1,6 @@
+C:\Users\acer\OneDrive\Desktop\HotelManagementSystem\GuestManagementSystem\GuestManagementSystem\obj\Debug\netcoreapp3.1\GuestManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\HotelManagementSystem\GuestManagementSystem\GuestManagementSystem\obj\Debug\netcoreapp3.1\GuestManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Desktop\HotelManagementSystem\GuestManagementSystem\GuestManagementSystem\obj\Debug\netcoreapp3.1\GuestManagementSystem.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Desktop\HotelManagementSystem\GuestManagementSystem\GuestManagementSystem\obj\Debug\netcoreapp3.1\GuestManagementSystem.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Desktop\HotelManagementSystem\GuestManagementSystem\GuestManagementSystem\obj\Debug\netcoreapp3.1\GuestManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\HotelManagementSystem\GuestManagementSystem\GuestManagementSystem\obj\Debug\netcoreapp3.1\GuestManagementSystem.MvcApplicationPartsAssemblyInfo.cache
